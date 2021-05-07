@@ -1,0 +1,60 @@
+,district,neighborhood,poverty_rate,borough,population,rent_burdened,minority_rate
+0,BK 01,Greenpoint/Williamsburg,23.3,Brooklyn,173083,52.800000000000004,37.0
+1,BK 02,Fort Greene/Brooklyn Heights,14.9,Brooklyn,99617,41.55,53.6
+2,BK 03,Bedford Stuyvesant,24.4,Brooklyn,152985,56.05,74.0
+3,BK 04,Bushwick,27.1,Brooklyn,112634,56.73333333333333,81.1
+4,BK 05,East New York/Starrett City,24.7,Brooklyn,182896,57.53333333333334,96.3
+5,BK 06,Park Slope/Carroll Gardens,7.8,Brooklyn,104709,40.7,35.9
+6,BK 07,Sunset Park,22.1,Brooklyn,126230,52.9,75.6
+7,BK 08,Crown Heights/Prospect Heights,20.0,Brooklyn,96317,48.25,77.7
+8,BK 09,South Crown Heights/Lefferts Gardens,19.1,Brooklyn,98429,58.4,77.2
+9,BK 10,Bay Ridge/Dyker Heights,15.2,Brooklyn,124491,52.699999999999996,45.4
+10,BK 11,Bensonhurst,17.3,Brooklyn,181981,56.06666666666666,59.8
+11,BK 12,Borough Park,30.8,Brooklyn,191382,64.23333333333333,28.9
+12,BK 13,Coney Island,24.8,Brooklyn,104278,56.85000000000001,44.1
+13,BK 14,Flatbush/Midwood,16.8,Brooklyn,160664,58.5,59.2
+14,BK 15,Sheepshead Bay,14.0,Brooklyn,159650,55.06666666666666,34.5
+15,BK 16,Brownsville,39.9,Brooklyn,86468,60.1,97.4
+16,BK 17,East Flatbush,13.7,Brooklyn,155252,56.43333333333334,97.3
+17,BK 18,Flatlands/Canarsie,8.9,Brooklyn,193543,52.06666666666666,77.3
+18,BX 01,Mott Haven/Melrose,44.2,Bronx,91497,55.25,98.0
+19,BX 02,Hunts Point/Longwood,44.2,Bronx,52246,66.85,98.0
+20,BX 03,Morrisania/Crotona,35.8,Bronx,79762,60.6,96.0
+21,BX 04,Highbridge/Concourse,36.4,Bronx,146441,60.96666666666667,98.0
+22,BX 05,Fordham/University Heights,36.4,Bronx,128200,64.53333333333333,98.9
+23,BX 06,Belmont/East Tremont,35.8,Bronx,83268,70.30000000000001,96.0
+24,BX 07,Kingsbridge Heights/Bedford,32.9,Bronx,139286,63.56666666666666,94.2
+25,BX 08,Riverdale/Fieldston,18.5,Bronx,101731,47.0,67.7
+26,BX 09,Parkchester/Soundview,24.7,Bronx,172298,54.78000000000001,97.1
+27,BX 10,Throgs Neck/Co-op City,10.2,Bronx,120392,47.23333333333333,72.5
+28,BX 11,Morris Park/Bronxdale,16.4,Bronx,113232,53.875,78.3
+29,BX 12,Williamsbridge/Baychester,14.6,Bronx,152344,60.4,93.7
+30,MN 01,Financial District,8.8,Manhattan,60978,39.900000000000006,27.8
+31,MN 02,Greenwich Village/Soho,8.8,Manhattan,90016,41.900000000000006,27.8
+32,MN 03,Lower East Side/Chinatown,27.3,Manhattan,163277,50.96666666666667,66.7
+33,MN 04,Clinton/Chelsea,13.8,Manhattan,103245,43.55,40.9
+34,MN 05,Midtown,13.8,Manhattan,51673,40.300000000000004,40.9
+35,MN 06,Stuyvesant Town/Turtle Bay,8.0,Manhattan,142745,41.6,30.3
+36,MN 07,Upper West Side,9.9,Manhattan,209084,40.05,32.0
+37,MN 08,Upper East Side,6.1,Manhattan,219920,40.4,24.7
+38,MN 09,Morningside Heights/Hamilton,22.7,Manhattan,110193,54.833333333333336,72.4
+39,MN 10,Central Harlem,23.5,Manhattan,115723,48.8,85.8
+40,MN 11,East Harlem,31.5,Manhattan,120511,48.25,86.3
+41,MN 12,Washington Heights/Inwood,18.7,Manhattan,190020,52.833333333333336,81.1
+42,QN 01,Astoria,13.0,Queens,191105,47.66,51.7
+43,QN 02,Woodside/Sunnyside,9.3,Queens,113200,54.1,71.1
+44,QN 03,Jackson Heights,13.5,Queens,171576,59.333333333333336,89.6
+45,QN 04,Elmhurst/Corona,15.6,Queens,172598,60.35,93.8
+46,QN 05,Ridgewood/Maspeth,8.4,Queens,169190,51.175,48.3
+47,QN 06,Rego Park/Forest Hills,8.1,Queens,113257,54.6,52.3
+48,QN 07,Flushing/Whitestone,16.2,Queens,247354,57.07142857142857,74.6
+49,QN 08,Hillcrest/Fresh Meadows,12.3,Queens,151107,52.15999999999999,70.1
+50,QN 09,Kew Gardens/Woodhaven,12.2,Queens,143317,54.866666666666674,82.0
+51,QN 10,South Ozone Park/Howard Beach,10.4,Queens,122396,55.333333333333336,78.5
+52,QN 11,Bayside/Little Neck,9.8,Queens,116431,54.875,60.6
+53,QN 12,Jamaica/Hollis,11.3,Queens,225919,56.61666666666667,98.2
+54,QN 13,Queens Village,8.9,Queens,188593,52.471428571428575,89.1
+55,QN 14,Rockaway/Broad Channel,19.8,Queens,114978,52.46666666666666,65.8
+56,SI 01,St. George/Stapleton,17.9,Staten Island,175756,56.3,62.3
+57,SI 02,South Beach/Willowbrook,10.2,Staten Island,132003,53.65999999999999,33.9
+58,SI 03,Tottenville/Great Kills,6.6,Staten Island,160209,46.11666666666667,17.1
